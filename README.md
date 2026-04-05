@@ -45,10 +45,14 @@ irm https://tinyurl.com/vhu-code | iex
 
 O **VW Diagnóstico** é uma ferramenta **profissional paga**.
 
+| Plano | Duração | Valor |
+|-------|---------|-------|
+| 💰 **Mensal** | 30 dias | **R$ 30,00** |
+| 💎 **Trimestral** | 90 dias | **R$ 90,00** |
+| 🏆 **Semestral** | 180 dias | **R$ 180,00** |
+
 | | |
 |---|---|
-| 💰 **Valor** | R$ 30,00 |
-| ⏳ **Acesso** | 30 dias |
 | 🔑 **Formato** | Chave de licença enviada após pagamento |
 | 📲 **Ativação** | Simples, direto no programa |
 
