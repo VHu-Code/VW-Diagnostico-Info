@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>Ferramenta completa de diagnostico, varredura de seguranca e reparo para Windows</b><br/>
-  Desenvolvido por <b>VW Informatica</b> - Xique-Xique/BA
+  Desenvolvido por <b>VHu-Code</b>
 </p>
 
 <p align="center">
@@ -312,18 +312,19 @@ Ao final dos testes, salva um `.txt` no Desktop com todos os resultados, identif
 
 ---
 
-## Contato
+## Suporte
 
 <p align="center">
-  <img src="https://img.shields.io/badge/telefone-(74)%2099937--8375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefone"/>
-  <img src="https://img.shields.io/badge/email-vw.informatica1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  <img src="https://img.shields.io/badge/instagram-@vw.informatica-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://wa.me/5574999378375">
+    <img src="https://img.shields.io/badge/WhatsApp-(74)%2099937--8375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://instagram.com/vw.informatica">
+    <img src="https://img.shields.io/badge/Instagram-@vw.informatica-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>VW Informatica</b><br/>
-  Rua 13 de junho, n 73, Polivalente<br/>
-  Xique-Xique/BA - CEP 47400-045
+  <b>VHu-Code</b>
 </p>
 
 ---
