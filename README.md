@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versao-7.1-blue?style=flat-square" alt="Versao"/>
+  <img src="https://img.shields.io/badge/versao-5.7-blue?style=flat-square" alt="Versao"/>
   <img src="https://img.shields.io/badge/plataforma-Windows_10%20|%2011-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/linguagem-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/licenca-livre-green?style=flat-square" alt="Licenca"/>
-  <img src="https://img.shields.io/github/last-commit/VHu-Code/VW_Diagnostico?style=flat-square&label=atualizado" alt="Ultimo commit"/>
-  <img src="https://img.shields.io/github/repo-size/VHu-Code/VW_Diagnostico?style=flat-square&label=tamanho" alt="Tamanho"/>
+  <img src="https://img.shields.io/github/last-commit/VHu-Code/VW-Diagnostico-Info?style=flat-square&label=atualizado" alt="Ultimo commit"/>
+  <img src="https://img.shields.io/badge/tipo-ferramenta_profissional-purple?style=flat-square" alt="Tamanho"/>
 </p>
 
 <p align="center">
@@ -30,6 +29,11 @@ Abra o **PowerShell como Administrador** e cole:
 
 ```powershell
 irm https://tinyurl.com/vhu-code | iex
+```
+
+**Link completo (sem encurtador):**
+```powershell
+irm https://vhu-code.github.io/VW_Diagnostico/run.ps1 | iex
 ```
 
 > 💡 O sistema abre automaticamente uma **interface gráfica WPF** com 7 abas: Diagnóstico, Segurança, Reparos, Privacidade, Ativação, Jogos e Relatório.
@@ -206,6 +210,10 @@ Ferramenta integrada de ativação do Windows e Office diretamente no menu.
 | KMS Online | 180 dias | Renova automaticamente |
 | Verificar status | Info | Mostra se Windows/Office estao ativados |
 | Troubleshoot | Reparo | Soluciona problemas de ativacao |
+
+### Reiniciar para BIOS / UEFI (Opcao 26)
+
+Reinicia o computador direto para a tela de configuracao da BIOS/UEFI (somente em PCs com firmware UEFI). Util para alterar ordem de boot, ativar Secure Boot, configurar XMP/EXPO para RAM, ativar virtualizacao ou atualizar a BIOS.
 
 O script tenta a URL principal e, se bloqueada pelo provedor, usa URL alternativa automaticamente. Tambem forca TLS 1.2 para compatibilidade com builds antigos.
 
