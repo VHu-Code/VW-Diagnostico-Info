@@ -42,6 +42,29 @@ irm https://vhu-code.github.io/VW_Diagnostico/run.ps1 | iex
 
 ---
 
+## ⚠️ PowerShell Desatualizado?
+
+Se ao rodar o comando aparecer o erro **"A conexão subjacente estava fechada"** ou **"Erro inesperado em um envio"**, seu PowerShell está com TLS desatualizado.
+
+### Solução 1 — Baixar o instalador .bat (recomendado)
+
+Baixe e execute este arquivo — ele já resolve tudo automaticamente:
+
+<p align="center">
+  <a href="https://vhu-code.github.io/VW_Diagnostico/VW_Diagnostico.bat">
+    <img src="https://img.shields.io/badge/⬇️_Baixar_VW__Diagnostico.bat-e05a00?style=for-the-badge" alt="Baixar BAT"/>
+  </a>
+</p>
+
+> Clique com botão direito → **"Executar como administrador"**
+
+### Solução 2 — Comando com TLS forçado
+
+Cole este comando no PowerShell (Administrador):
+
+```powershell
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; irm tinyurl.com/vhu-code | iex
+```
 
 ---
 
