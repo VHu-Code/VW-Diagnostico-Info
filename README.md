@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/versao-5.7-blue?style=flat-square" alt="Versao"/>
+  <img src="https://img.shields.io/badge/versao-7.4-blue?style=flat-square" alt="Versao"/>
   <img src="https://img.shields.io/badge/plataforma-Windows_10%20|%2011-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/linguagem-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/github/last-commit/VHu-Code/VW-Diagnostico-Info?style=flat-square&label=atualizado" alt="Ultimo commit"/>
